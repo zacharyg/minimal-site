@@ -97,15 +97,24 @@ textarea {
 
 p,a{
     font-size: 11px;
-    line-height: 20px;
+    line-height: 25px;
 }
 
 a{
     text-decoration: none;
 }
 
+a:hover{
+    text-decoration: underline;
+}
+
 body{
     margin: 50px;
+}
+
+.section-title{
+    font-weight: bold;
+    font-size:14px;
 }
 
 .sidebar-left{
@@ -114,12 +123,15 @@ body{
 }
 
 .main-section{
-    margin-top: 40px;
+    margin-top: 70px;
+    clear: bottom;
+
 }
 
 .sidebar-right{
-    margin-top: 40px;
+    margin-top: 25px;
     margin-right: 40px;
+    margin-left: 20px;
     float: right;
 }
 
@@ -130,6 +142,9 @@ body{
     text-align: center;
 }
 
+.paragraph{
+    line-height: 20px;
+}
 
 
 
