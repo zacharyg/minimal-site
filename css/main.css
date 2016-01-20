@@ -108,48 +108,23 @@ a:hover{
     text-decoration: underline;
 }
 
-body{
-    margin: 50px;
-}
 
 .section-title{
     font-weight: bold;
     font-size:14px;
 }
 
-.sidebar-left{
-    margin-top: 40px;
-    float: left;
+
+body {
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
 }
-
-.main-section{
-    margin-top: 70px;
-    clear: bottom;
-
-}
-
-.sidebar-right{
-    margin-top: 25px;
-    margin-right: 40px;
-    margin-left: 20px;
-    float: right;
-}
-
-.footer{
-    position:fixed;
-    bottom:0;
-    width: 100%;
-    text-align: center;
-}
-
-.paragraph{
-    line-height: 20px;
-}
-
-
-
-
-
 
 
 
